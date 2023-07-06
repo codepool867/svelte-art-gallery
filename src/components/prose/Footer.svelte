@@ -22,10 +22,9 @@
     </p>
     <p>
       Code is available on <a
-        href="https://github.com/connorrothschild/bob-ross-art-gallery"
+        href="https://github.com/devofficer/svelte-art-gallery"
         >GitHub</a
-      >. Questions? Reach out on
-      <a href="https://twitter.com/CL_Rothschild">Twitter</a>!
+      >.
     </p>
   </section>
 </footer>

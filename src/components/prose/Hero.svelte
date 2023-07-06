@@ -6,7 +6,7 @@
     <h1 class="headline">The Bob Ross Virtual Art Gallery</h1>
     <h2 class="subtitle">You deserve some calm.</h2>
     <h3>
-      By <a href="https://twitter.com/CL_Rothschild">Connor Rothschild</a>
+      By <a href="https://github.com/devofficer">DevOfficer</a>
     </h3>
   </div>
 </div>
